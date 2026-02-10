@@ -39,7 +39,7 @@ Projelerimizde kullandığımız geniş teknoloji yığını:
 
 <div align="center">
   <p>Bize Ulaşın</p>
-  <a href="mailto:ateacodee@gmail.com">
+  <a href="mailto: ateacodee@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact%40ateacode.com-red?style=flat-square&logo=gmail">
   </a>
 </div>
